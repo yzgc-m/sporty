@@ -26,7 +26,7 @@ POST http://localhost:8080/api/events/status
 
 {
     "eventId": 1234,
-    "status": false
+    "status": true
 }
 ```
 #### Note on first application run:
